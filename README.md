@@ -2,7 +2,7 @@
 
 ## Magic Leap awesome resources
 
-_Pull requests please! 💗_
+Pull requests please! 💗
 
 ### Apps
 
