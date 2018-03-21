@@ -2,4 +2,4 @@
 
 # Magic Leap awesome resources
 
-https://github.com/MuhammadFarhanAqeel/Magic-Leap-Dance-Simulation
+[Magic-Leap-Dance-Simulation](https://github.com/MuhammadFarhanAqeel/Magic-Leap-Dance-Simulation)
