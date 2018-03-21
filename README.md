@@ -2,6 +2,8 @@
 
 ## Magic Leap awesome resources
 
+_Pull requests please! 💗_
+
 ### Apps
 
 [Magic-Leap-Dance-Simulation](https://github.com/MuhammadFarhanAqeel/Magic-Leap-Dance-Simulation)
